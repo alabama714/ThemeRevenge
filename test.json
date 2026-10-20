@@ -28,6 +28,12 @@
             "#84985A55",
             "#84985A55"
         ],
+        "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+            "#71864A40"
+        ],
+        "MESSAGE_MENTIONED_BACKGROUND_HOVER": [
+            "#84985A55"
+        ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#bdae931a",
             "#665c541a",
